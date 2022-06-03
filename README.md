@@ -1,2 +1,1 @@
-### Looking for something?
-### Take a look and if you still need help just DM me on Discord [Nektarios#1234]
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nektarios&theme=monokai)
