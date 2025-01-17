@@ -14,7 +14,7 @@
 - Frontend: `React` `React Native` `JavaScript` `HTML` `CSS`
 - Backend: `Node.js` `Express` `MongoDB` `SQL`
 - Languages: `JavaScript` `C/C++` `Java` `Python`
-- Tools: `Git` `Discord API` `RESTful APIs`
+- Tools: `Git` `Discord API` `RESTful APIs` `Firebase`
 
 ## 💼 Professional Experience
 
